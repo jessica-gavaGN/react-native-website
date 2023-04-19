@@ -401,7 +401,7 @@ module.exports = {
         appId: '8TDSE0OHGQ',
         apiKey: '83cd239c72f9f8b0ed270a04b1185288',
         indexName: 'react-native-v2',
-        contextualSearch: true,
+        contextualSearch: false,
       },
       metadata: [
         {

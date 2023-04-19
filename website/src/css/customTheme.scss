@@ -906,7 +906,7 @@ aside[class^="theme-doc-sidebar-container"] {
   }
 
   .menu__link.menu__link--active {
-    border-left-color: var(--ifm-menu-color-active) !important;
+    border-left-color: red;
     border-left-width: 0;
   }
 
